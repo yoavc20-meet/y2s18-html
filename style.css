@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+	
+}
+div{
+	color:white;
+}
+
+.non-veg{
+	color:red;
+}
+.veg{
+	color:green;
+}
